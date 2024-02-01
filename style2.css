@@ -1,0 +1,47 @@
+h2{
+    color: aqua;
+    text-decoration: underline;
+    font-size: 22px;
+    text-align: center;
+}
+.one{
+    color: maroon;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    background-color: green;
+    text-decoration: none;
+}
+.navbar .logo a {
+    font-size: 35px;
+    font-weight: 600;
+    color: red;
+    text-decoration: none;
+}
+.navbar .logo li{
+    color: aqua;
+    text-align: center;
+    text-size-adjust: none;
+}
+.navbar .all links{
+    list-style: none;
+    margin: 10 8px;
+}
+.navbar .all links all links{
+    position: relative;
+    display: flex;
+}
+.navbar .all links a{
+    padding:6 0px ;
+    color: blue;
+    text-decoration:none ;
+    font-weight:20px ;
+    font-size: 700;
+    list-style: none;
+}
+.navbar .all links a:hover{
+    color: blue;
+}
